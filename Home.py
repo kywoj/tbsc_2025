@@ -11,7 +11,7 @@ if "answered" not in st.session_state:
 # Main landing page content
 st.title("🧬 Drug Discovery & Development for Designers")
 st.write("""
-Welcome to an interactive mini-course about the **drug discovery & development pipeline**, created with <3 especially for designers and other nonscientists.
+Welcome to an interactive mini-course about the **drug discovery & development pipeline**, created especially for designers and other nonscientists.
 """)
 
 # Show overall progress and score in sidebar
