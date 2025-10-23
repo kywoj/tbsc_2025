@@ -13,9 +13,7 @@ st.write("""
 Once researchers have selected the most promising compound from discovery, 
 it cannot go directly into human testing. The next step is the **preclinical phase**, 
 where scientists run a series of experiments in the lab and in animals to 
-answer a critical question:
-
-*Is this drug candidate reasonably safe and effective enough to test in humans?*
+answer a critical question: *Is this drug candidate reasonably safe and effective enough to test in humans?*
 
 ### Goals of Preclinical Research
 - **Understand safety risks:** Before involving people, scientists must rule out 
@@ -32,10 +30,9 @@ This is called **pharmacodynamics (PD)**.
 - **Pharmacodynamics (PD)**: Measure how the drug affects its biological target.
 
 ### Standards and Regulation
-All preclinical studies must follow **Good Laboratory Practice (GLP)** standards.  
-The results are compiled into an **Investigational New Drug (IND)** application, 
-which is submitted to the FDA (or other regulators).  
-Only after the IND is reviewed and accepted can clinical trials in humans begin.
+- All preclinical studies must follow **Good Laboratory Practice (GLP)** standards.  
+- The results are compiled into an **Investigational New Drug (IND)** application, which is submitted to the FDA (or other regulators).  
+- Only after the IND is reviewed and accepted can clinical trials in humans begin.
 """)
 
 module_keys = ["pre1","pre2","pre3","pre4","pre5"]
