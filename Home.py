@@ -11,7 +11,7 @@ if "answered" not in st.session_state:
 # Main landing page content
 st.title("🧬 Drug Discovery & Development for Designers")
 st.write("""
-Welcome to an interactive mini-course about the **drug discovery & development pipeline**, created especially for designers and other nonscientists.
+Welcome to an interactive mini-course about the **drug discovery & development pipeline**—created by & for designers and other nonscientists.
 """)
 
 # Show overall progress and score in sidebar
@@ -21,7 +21,9 @@ st.markdown("---")
 st.subheader("Course Overview")
 st.markdown("""
  
-This guide provides a clear, structured overview of how new medicines are discovered, tested, and brought to patients.  
+This guide provides a clear overview of how new medicines are discovered, tested, and brought to patients.  
+            
+With this information, designers will be able to translate the complex steps of drug development into intuitive, user-friendly experiences and collaborate more effectively with scientists to make medical innovation more accessible, ethical, and patient-centered.
 
 You’ll learn through **five modules**:  
 1. **Drug Discovery** – Finding and optimizing promising molecules  
@@ -32,7 +34,7 @@ You’ll learn through **five modules**:
 
 At the end, you’ll reach a **Summary & Results page**, and you can review a **Glossary** of key terms anytime.  
 
-Let’s get started! 🚀
+Let's go!
             
 """)
 
