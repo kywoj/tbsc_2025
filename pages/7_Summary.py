@@ -42,5 +42,4 @@ else:
 st.markdown("---")
 
 if score != 0:
-    st.write("Thank you for taking this mini-course! 🚀 Your knowledge helps bridge the gap between IT and science in pharma.")
-    st.write("button here")
+    st.write("Thank you for taking my mini-course! Download your certificate on the next page.")

@@ -16,7 +16,7 @@ such as the U.S. **Food and Drug Administration (FDA)** or the **European Medici
 
 ### Submitting for Approval
 - All trial data and preclinical results are compiled into a massive document called a 
-**New Drug Application (NDA)** or a **Biologics License Application (BLA)**.
+**New Drug Application (NDA)** (for small-molecule drugs) or a **Biologics License Application (BLA)** (for biologics products).
 - This includes manufacturing processes, labeling, proposed dosing, 
 and evidence of safety and effectiveness.
 
@@ -38,7 +38,7 @@ module_keys = ["reg1","reg2","reg3","reg4","reg5"]
 show_progress(module_keys)
 
 st.subheader("Test your Knowledge")
-quiz("The FDA submission for marketing approval is called…", 
+quiz("The FDA submission for marketing approval for small-molecule drugs is called…", 
     ["IND", "NDA", "BLA"], 1, "reg1")
 quiz("Post-marketing surveillance is also called…", 
     ["Phase 4", "Phase 1", "Preclinical"], 0, "reg2")

@@ -25,7 +25,7 @@ else:
     st.success("🎉 Congratulations! You have completed all quizzes.")
     st.balloons()
     score = st.session_state.score
-    st.write(f"Your final score: **{score}/20**")
+    st.write(f"Your final score: **{score}/25**")
 
     if score >= 15:
         st.success("You passed and earned your certificate!")
@@ -46,10 +46,10 @@ else:
             c.drawCentredString(width/2, height-220, "has successfully completed the")
             c.drawCentredString(width/2, height-240, "Drug Discovery & Development Mini-Course")
             c.setFont("Helvetica", 12)
-            c.drawCentredString(width/2, height-280, f"Final Score: {score}/20")
+            c.drawCentredString(width/2, height-280, f"Final Score: {score}/25")
             c.drawCentredString(width/2, height-300, f"Date of Completion: {date_str}")
             c.setFont("Helvetica-Oblique", 10)
-            c.drawCentredString(width/2, height-340, "Issued by Bruce the corgi")
+            c.drawCentredString(width/2, height-340, "Issued by Bruce 'The Corgi' Julian")
             c.showPage()
             c.save()
             buffer.seek(0)
