@@ -5,7 +5,7 @@ if "score" not in st.session_state:
 if "answered" not in st.session_state:
     st.session_state.answered = {}
 
-st.header("🎉 Course Summary: Drug Discovery & Development for Designers")
+st.header("🎉 Course Summary")
 st.write("""
 Congratulations on completing the mini-course! You’ve now explored the full journey of how medicines are discovered, tested, and approved:
 
