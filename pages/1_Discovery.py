@@ -48,6 +48,6 @@ quiz("Hit-to-lead and lead optimization focus on…",
      ["Improving drug properties", "Recruiting trial patients", "Filing patents"], 0, "disc4")
 
 quiz("Preclinical candidate selection determines…", 
-     ["The final approved drug", "Which compound moves to animal studies", "Marketing strategy"], 1, "disc5")
+     ["The final approved drug", "Which compound is most promising to move forward into preclinical testing", "Marketing strategy"], 1, "disc5")
 
 st.markdown("---")
