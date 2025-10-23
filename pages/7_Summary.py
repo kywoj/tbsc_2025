@@ -7,8 +7,7 @@ if "answered" not in st.session_state:
 
 st.header("🎉 Course Summary: Drug Discovery & Development for Designers")
 st.write("""
-Congratulations on completing the mini-course!  
-You’ve now explored the full journey of how medicines are discovered, tested, and approved:
+Congratulations on completing the mini-course! You’ve now explored the full journey of how medicines are discovered, tested, and approved:
 
 1. **Drug Discovery** – Identifying and optimizing potential drug candidates.  
 2. **Preclinical Development** – Testing in the lab and in animals to gather safety data.  
@@ -38,7 +37,7 @@ elif score > total_questions * 0.5:
 elif score == 0:
     st.info("You didn't finish! Go back and take your best shot at answering all the questions in each module.")
 else:
-    st.warning("Don’t worry — this is a tough topic. Try revisiting the modules and quizzes.")
+    st.warning("Don’t worry, this is a tough topic. Try revisiting the modules and quizzes.")
 
 st.markdown("---")
 

@@ -31,8 +31,7 @@ Approval is not the end. After a drug is on the market:
 - **Pharmacovigilance systems** collect reports of rare or unexpected side effects.
 - Regulators may update labeling or restrict use if new risks are found.
 
-> Regulatory review ensures that new medicines reaching patients are not only 
-> effective but also safe, consistent, and trustworthy.
+Regulatory review ensures that new medicines reaching patients are not only  effective but also safe, consistent, and trustworthy.
 """)
 
 module_keys = ["reg1","reg2","reg3","reg4","reg5"]
@@ -51,5 +50,3 @@ quiz("Pharmacovigilance refers to…",
     ["Drug marketing", "Monitoring drug safety after approval", "Optimizing manufacturing"], 1, "reg5")
 
 st.markdown("---")
-st.write("button here")
-

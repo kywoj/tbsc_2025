@@ -36,9 +36,7 @@ than the one before.
 to ensure objective results.
 - **Endpoints** – Each trial defines measurable outcomes (e.g., reduced symptoms, improved survival).
 
-> Clinical trials are long, expensive, and risky. 
-> Most drug candidates fail during this stage, but those that succeed provide the strongest 
-> evidence that a drug can truly benefit patients.
+Clinical trials are long, expensive, and risky. Most drug candidates fail during this stage, but those that succeed provide the strongest  evidence that a drug can truly benefit patients.
 """)
 
 module_keys = ["clin1","clin2","clin3","clin4","clin5"]
@@ -57,5 +55,3 @@ quiz("Phase 3 trials usually involve…",
      ["Dozens of patients", "Thousands of patients", "Single healthy volunteers"], 1, "clin5")
 
 st.markdown("---")
-st.write("button here")
-

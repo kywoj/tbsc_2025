@@ -34,8 +34,7 @@ This stage is often referred to as **post-marketing surveillance** or **Phase 4 
 - **Label updates**: If new data emerges, drug labeling may be revised 
   to add warnings, precautions, or expanded indications.
 
-> Post-marketing surveillance ensures that patient safety continues 
-> to be the top priority even after a drug is on pharmacy shelves.
+Post-marketing surveillance ensures that patient safety continues  to be the top priority even after a drug is on pharmacy shelves.
 """)
 
 module_keys = ["post1","post2","post3","post4","post5"]
@@ -58,4 +57,3 @@ quiz("Risk Management Plans (RMPs) are used to…",
      ["Minimize risks and guide safe use", "Negotiate insurance coverage", "Expand advertising"], 0, "post5")
 
 st.markdown("---")
-st.write("button here")

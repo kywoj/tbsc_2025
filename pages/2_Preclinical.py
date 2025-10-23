@@ -15,7 +15,7 @@ it cannot go directly into human testing. The next step is the **preclinical pha
 where scientists run a series of experiments in the lab and in animals to 
 answer a critical question:
 
-**Is this drug candidate reasonably safe and effective enough to test in humans?**
+*Is this drug candidate reasonably safe and effective enough to test in humans?*
 
 ### Goals of Preclinical Research
 - **Understand safety risks:** Before involving people, scientists must rule out 
@@ -54,5 +54,3 @@ quiz("An IND application is filed…",
      ["Before clinical trials", "After FDA approval", "During sales launch"], 0, "pre5")
 
 st.markdown("---")
-st.write("button here")
-

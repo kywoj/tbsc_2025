@@ -28,8 +28,7 @@ improve their strength, selectivity, and safety profile.
 the best “lead” compound is chosen as a **preclinical candidate** — 
 the one most likely to succeed in lab and animal studies.
 
-> Discovery is creative and experimental. Only a small fraction of initial hits ever 
-> advance to preclinical testing, but this process lays the foundation for all later phases.
+Drug discovery is a creative and experimental process. Only a small fraction of initial hits advance to preclinical testing, but this phase lays the foundation for all later steps in developing safe and effective medicines.
 """)
 
 module_keys = ["disc1","disc2","disc3","disc4","disc5"]
@@ -52,5 +51,3 @@ quiz("Preclinical candidate selection determines…",
      ["The final approved drug", "Which compound moves to animal studies", "Marketing strategy"], 1, "disc5")
 
 st.markdown("---")
-st.write("button here")
-
