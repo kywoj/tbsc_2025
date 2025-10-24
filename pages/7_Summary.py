@@ -42,4 +42,4 @@ else:
 st.markdown("---")
 
 if score != 0:
-    st.write("Thank you for taking my mini-course! Download your certificate on the next page.")
+    st.write("Thank you for taking this mini-course! Don't forget to download your certificate on the next page. ")

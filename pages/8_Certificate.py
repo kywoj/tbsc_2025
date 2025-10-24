@@ -44,7 +44,7 @@ else:
             c.drawCentredString(width/2, height-180, name)
             c.setFont("Helvetica", 14)
             c.drawCentredString(width/2, height-220, "has successfully completed the")
-            c.drawCentredString(width/2, height-240, "Drug Discovery & Development Mini-Course")
+            c.drawCentredString(width/2, height-240, "Drug Discovery & Development for Designers mini-course")
             c.setFont("Helvetica", 12)
             c.drawCentredString(width/2, height-280, f"Final Score: {score}/25")
             c.drawCentredString(width/2, height-300, f"Date of Completion: {date_str}")

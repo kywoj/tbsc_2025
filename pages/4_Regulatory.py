@@ -16,7 +16,7 @@ such as the U.S. **Food and Drug Administration (FDA)** or the **European Medici
 
 ### Submitting for Approval
 - All trial data and preclinical results are compiled into a massive document called a 
-**New Drug Application (NDA)** (for small-molecule drugs) or a **Biologics License Application (BLA)** (for biologics products).
+**New Drug Application (NDA)** for small-molecule drugs or a **Biologics License Application (BLA)** for biologics products.
 - This includes manufacturing processes, labeling, proposed dosing, 
 and evidence of safety and effectiveness.
 
